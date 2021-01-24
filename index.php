@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "Este es mi primer ejercicio para subir a Git";
         echo "Esta es la primera modificación a mi proyecto";
         echo "Aqui voy a añadir otros cambios para comparar";
+        echo "este es el cambio que hago directamente en github";
         ?>
     </body>
 </html>
