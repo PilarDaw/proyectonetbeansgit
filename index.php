@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo "Este es mi primer ejercicio para subir a Git";
         echo "Esta es la primera modificación a mi proyecto";
+        echo "Aqui voy a añadir otros cambios para comparar";
         ?>
     </body>
 </html>
